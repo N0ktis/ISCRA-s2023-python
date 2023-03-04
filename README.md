@@ -50,7 +50,9 @@
 
 ### Windows
 
-Переходим по [ссылке](https://www.jetbrains.com/pycharm/download/#section=windows) и скачиваем PyCharm
+Переходим по [ссылке](https://www.jetbrains.com/pycharm/download/#section=windows) и скачиваем PyCharm Community Edition.
+
+![](https://github.com/N0ktis/ISCRA-python/blob/main/img/6.png)
 
 ### Linux
 
