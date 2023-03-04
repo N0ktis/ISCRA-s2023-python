@@ -42,6 +42,12 @@
 !sudo apt-get upgrade python3
 ```
 ## Установка PyCharm
+
+Для работы в PyCharm необходимо иметь учётную запись на сайте JetBrains.  
+Переходим по [ссылке](https://account.jetbrains.com/login) и либо входим под аккаунтом, либо создаём новую учётную запись.
+
+![](https://github.com/N0ktis/ISCRA-python/blob/main/img/5.png)
+
 ### Windows
 ### Linux
 
