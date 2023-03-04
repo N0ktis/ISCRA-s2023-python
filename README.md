@@ -15,7 +15,7 @@
 ![](https://github.com/N0ktis/ISCRA-python/blob/main/img/2.png)
 
 После скачивания запускаем установщик.  
-**ВАЖНО:**
+**ВАЖНО:** нужно обязательно отметить пункт '''Add python.exe to PATH'''
 
 
 ### Linux
