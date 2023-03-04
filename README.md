@@ -5,6 +5,7 @@
 ## Установка Python
 ### Windows
 Открываем браузер и переходим по [ссылке](https://www.python.org/).
+
 На странице выбираем последний релиз
 ![](https://github.com/N0ktis/ISCRA-python/blob/main/img/1.png)
 ### Linux
