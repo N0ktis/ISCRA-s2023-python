@@ -4,7 +4,7 @@
 
 ## Установка Python
 ### Windows
-Открываем браузер и переходим по [ссылке](https://www.python.org/)
+Открываем браузер и переходим по [ссылке](https://www.python.org/).
 ### Linux
 
 ## Установка PyCharm
