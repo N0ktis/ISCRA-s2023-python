@@ -78,4 +78,8 @@ PyCharm Community Edition можно установить через терми�
 
 Запускаем PyCharm и жмём на кнопку `New Project`.
 
+![](https://github.com/N0ktis/ISCRA-python/blob/main/img/11.png)
+
 Указываем имя проекта и версию интепретатора Python
+
+![](https://github.com/N0ktis/ISCRA-python/blob/main/img/12.png)
