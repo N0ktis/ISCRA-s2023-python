@@ -44,11 +44,14 @@
 ## Установка PyCharm
 
 Для работы в PyCharm необходимо иметь учётную запись на сайте JetBrains.  
-Переходим по [ссылке](https://account.jetbrains.com/login) и либо входим под аккаунтом, либо создаём новую учётную запись.
+Для этого переходим по [ссылке](https://account.jetbrains.com/login) и создаём новую учётную запись.
 
 ![](https://github.com/N0ktis/ISCRA-python/blob/main/img/5.png)
 
 ### Windows
+
+Переходим по [ссылке](https://www.jetbrains.com/pycharm/download/#section=windows) и скачиваем PyCharm
+
 ### Linux
 
 ## Установка Jupiter
