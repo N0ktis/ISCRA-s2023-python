@@ -36,7 +36,7 @@
 Если же у вас более низкая версия Python и вы хотите обновиться, то пропишите в терминале:
 
 ```
-sudo apt-get upgrade python3
+!sudo apt-get upgrade python3
 ```
 ## Установка PyCharm
 ### Windows
