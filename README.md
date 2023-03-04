@@ -56,4 +56,12 @@
 
 ### Linux
 
+PyCharm Community Edition можно установить через терминал введя команду:
+```
+!sudo snap install pycharm-community --classic
+```
+Или скачав и распоковав архив с [сайта](https://www.jetbrains.com/pycharm/download/#section=linux):
+
+![](https://github.com/N0ktis/ISCRA-python/blob/main/img/9.png)
+
 ## Установка Jupiter
