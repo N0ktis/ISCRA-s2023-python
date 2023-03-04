@@ -10,7 +10,7 @@
 
 ![](https://github.com/N0ktis/ISCRA-python/blob/main/img/1.png)
 
-Листаем в самый низ и скачиваем установочный файл соотвествующий разрядности вашей системы.
+Листаем в самый низ и скачиваем установочный файл? соотвествующий разрядности вашей операционной системы.
 
 ![](https://github.com/N0ktis/ISCRA-python/blob/main/img/2.png)
 
@@ -18,6 +18,13 @@
 **ВАЖНО:** нужно обязательно отметить пункт `Add python.exe to PATH`
 
 ![](https://github.com/N0ktis/ISCRA-python/blob/main/img/3.png)
+
+Нажимаем кнопку `Install Now` и ждём завешения.
+
+Чтобы проверить правильность установки можно запустить PowerShell (или просто терминал) и ввести команду `python`.  
+Должен запуститься интепретатор Python, где будет указана версия ЯП.
+
+![](https://github.com/N0ktis/ISCRA-python/blob/main/img/4.png)
 
 ### Linux
 
