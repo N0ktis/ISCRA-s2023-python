@@ -113,7 +113,7 @@ pip install notebook
 Чтобы запустить локально сервер Jupyter вводим в командой строке:
 
 ```
-jupiter notebook
+jupyter notebook
 ```
 ![](https://github.com/N0ktis/ISCRA-python/blob/main/img/13.png)
 
