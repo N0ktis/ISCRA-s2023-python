@@ -52,7 +52,7 @@
 Если же у вас более низкая версия Python и вы хотите обновиться, то пропишите в командной строке:
 
 ```
-!sudo apt-get upgrade python3
+sudo apt-get upgrade python3
 ```
 
 <a name="Установка_PyCharm"></a>
@@ -70,7 +70,7 @@
 
 PyCharm Community Edition можно установить через терминал введя команду:
 ```
-!sudo snap install pycharm-community --classic
+sudo snap install pycharm-community --classic
 ```
 Или скачав и распоковав архив с [сайта](https://www.jetbrains.com/pycharm/download/#section=linux):
 
@@ -107,13 +107,13 @@ PyCharm Community Edition можно установить через терми�
 Открываем PowerShell или терминал и прописываем следующую команду:
 
 ```
-!pip install notebook
+pip install notebook
 ```
 
 Чтобы запустить локально сервер Jupyter вводим в командой строке:
 
 ```
-!jupiter notebook
+jupiter notebook
 ```
 ![](https://github.com/N0ktis/ISCRA-python/blob/main/img/13.png)
 
