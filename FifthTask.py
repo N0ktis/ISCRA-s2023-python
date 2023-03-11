@@ -9,7 +9,9 @@ while i < len(string):
         if element < len(alphabet):
             result = result + alphabet[element]
         else:
-            result = result + alphabet[element - len(alphabet)]
+            while element >= len(alphabet):
+                element = element - len(alphabet)
+            result = result + alphabet[element - 4]
     else:
         result = result + 'u'
     i = i + 1
