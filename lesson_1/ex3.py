@@ -1,0 +1,1 @@
+print(*[abs(int(float(x))) for x in input().split()])
