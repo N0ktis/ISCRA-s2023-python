@@ -1,1 +1,1 @@
-print(sum(float(num) for num in input().split()))d
+print(sum(float(num) for num in input().split()))
