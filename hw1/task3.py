@@ -1,2 +1,2 @@
 import math
-print([abs(math.floor(eval(num))) for num in input().split()])
+print([abs(math.trunc(float(num))) for num in input().split()])
