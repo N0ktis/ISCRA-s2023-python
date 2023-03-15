@@ -11,6 +11,8 @@
 
 Ссылка на запись занятия: [тутъ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+Ссылка на статью про алгоритм сжатия LZW: [тутъ](https://habr.com/ru/company/otus/blog/581728/)
+
 # Домашнее задание
 
 ## Формат сдачи ДЗ
