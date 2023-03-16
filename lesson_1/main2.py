@@ -1,3 +1,4 @@
+#Номер2
 enter_text = input("Enter text caps lock: ")
 print(enter_text)
 prompt = "Enter 'quit' to end the program "

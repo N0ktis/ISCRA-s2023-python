@@ -1,3 +1,4 @@
+#Номер4
 enter_numbers = list(input("Enter numbers: ").split())
 numbers = map(float, enter_numbers)
 sum_squares = 0

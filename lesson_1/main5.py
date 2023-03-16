@@ -1,3 +1,4 @@
+#Номер5
 alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ"
 print(alphabet)
 offset = int(input("Encryption step: "))
