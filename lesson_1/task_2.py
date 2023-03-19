@@ -2,8 +2,7 @@ def main():
     string = input()
     while True:
         if (rule := input()) != "end":
-            old, new = rule.split("->")
-            print(string := string.replace(old, new))
+            print(string := string.replace((rule := rule.split("->"))[0], rule[1]))
         else:
             break
 
