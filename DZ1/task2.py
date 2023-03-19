@@ -1,4 +1,5 @@
 text = input()
 while True:
     rule = input()
-    print(text.replace(rule[0],rule[3]))
+    array = rule.split('->')
+    print(text.replace(array[0],array[1]))
