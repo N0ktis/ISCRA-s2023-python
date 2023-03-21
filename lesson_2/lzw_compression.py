@@ -3,7 +3,7 @@ from sys import argv
 
 
 def index_to_bytes(value: int, bits: int) -> bytes:
-    return value.to_bytes(bits // 8 + 0 if bits % 8 == 0 else 1, "little")
+    return value.to_bytes((bits // 8) + (0 if bits % 8 == 0 else 1), "little")
 
 
 def encode_value(dictionary: dict, key: tuple) -> bytes:
@@ -20,7 +20,7 @@ def main(input_filename: str, output_filename: str) -> None:
 
         for char in string_bitwise:
             sequence.append(char)
-            if key := tuple(sequence) in dictionary:
+            if (key := tuple(sequence)) in dictionary:
                 continue
 
             output_file.write(encode_value(dictionary, key[:-1]))
