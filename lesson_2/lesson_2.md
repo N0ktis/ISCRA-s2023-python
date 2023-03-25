@@ -30,3 +30,8 @@
 2) Программа должна поддерживать ввод имени входного файла в качестве аргумента командой строки
 3) Формат входного файла: `<имя_файла>.<исходное_расширение>.lzw`
 4) Разрешается использовать ТОЛЬКО библиотеки `math` и `sys`
+
+**Подсказки для решения**:
+1. Подсказки, разъяснения, советы: [туть](https://github.com/N0ktis/ISCRA-s2023-python/blob/main/lesson_2/hints/basic_tips.md)
+2. Общий план написания алгоритма: [туть](https://github.com/N0ktis/ISCRA-s2023-python/blob/main/lesson_2/hints/general_algorithm.md)
+3. Подробный план написания алгоритма: [туть](https://github.com/N0ktis/ISCRA-s2023-python/blob/main/lesson_2/hints///detailed_algorithm.md)
