@@ -10,6 +10,8 @@
 
 Ссылка на запись занятия: [тутъ](https://youtu.be/uDboVdmcdis)
 
+Код с занятия: [тутъ](https://github.com/N0ktis/ISCRA-s2023-python/blob/main/lesson_1/main.py)
+
 # Домашнее задание
 
 ## Формат сдачи ДЗ
