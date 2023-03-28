@@ -8,3 +8,4 @@
 * [Занатие 1: Основы Python](https://github.com/N0ktis/ISCRA-s2023-python/blob/main/lesson_1/lesson_1.md)
 * [Занатие 2: Написание утилиты-архиватора](https://github.com/N0ktis/ISCRA-s2023-python/blob/main/lesson_2/lesson_2.md)
 * [Занятие 3: Написание VFS-Shell](https://github.com/N0ktis/ISCRA-s2023-python/blob/main/lesson_3/lesson_3.md)
+* [Занятие 4: Многопоточность и асинхронное программирование](https://github.com/N0ktis/ISCRA-s2023-python/blob/main/lesson_4/lesson_4.md)
