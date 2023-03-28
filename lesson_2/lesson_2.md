@@ -13,6 +13,8 @@
 
 Ссылка на статью про алгоритм сжатия LZW: [тутъ](https://habr.com/ru/company/otus/blog/581728/)
 
+Код с занятия: [тутъ](https://github.com/N0ktis/ISCRA-s2023-python/blob/main/lesson_2/main.py)
+
 # Домашнее задание
 
 ## Формат сдачи ДЗ
