@@ -1,0 +1,39 @@
+import math
+import sys
+path1 = r'C:\Users\User\PycharmProjects\pythonProject\Prov.py.lzw'
+path2 = r'C:\Users\User\PycharmProjects\pythonProject\out_fail'
+
+if not (2 <= len(sys.argv) <= 3):
+    print('Usage: ', sys.argv[0], 'input_file')
+outpath = sys.argv[2] if len(sys.argv) == 3 else sys.argv[1] + '.lzw'
+
+with open(sys.argv[1], 'rb') as file:
+    data = file.read()
+
+dictionary = {i:(i,) for i in range(256)}
+sequens = list()
+i = 0
+with open(outpath, 'wb') as file:
+    while i < len(data):
+        if sequens == []:
+            n = len(dictionary)
+        else:
+            n = len(dictionary) + 1
+        nbits = math.ceil(math.log2(n))
+        nbytes = nbits // 8
+        if nbits % 8 != 0:
+            nbytes += 1
+        slice_dan = data[i : i + nbytes]
+        sym = int.from_bytes(slice_dan, 'little')
+        if sym == len(dictionary):
+            ch = len(sequens) - 1 if len(sequens) > 1 else 1
+            new_sequence = sequens + sequens[:ch]
+        else:
+            new_sequence = list(dictionary[sym])
+        file.write(bytearray(new_sequence))
+        if sequens == []:
+            pass
+        else:
+            dictionary[len(dictionary)] = tuple(sequens + new_sequence[-1:])
+        i += nbytes
+        sequens = new_sequence
