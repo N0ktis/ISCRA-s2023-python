@@ -7,6 +7,6 @@
 🔹️ GIL  
 🔹️ Логгирование
 
-Ссылка на запись занятия: [тутъ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Ссылка на запись занятия: [тутъ](https://youtu.be/ERUjQ5_wzk8)
 
 Код с занятия: [тутъ](https://github.com/N0ktis/ISCRA-s2023-python/blob/main/lesson_4/main_.py)
